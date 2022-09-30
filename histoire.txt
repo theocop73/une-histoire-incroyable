@@ -3,3 +3,4 @@ Jean fut réveillé par Michel, a qui il avait promis d'aller faire une rencontr
 Jean et Michel coururent vers la fussée où ils s'y cachèrent. dark Vador les chercha et failli repartir quand Michel éternua.
 
 cette ligne va entrer en conflit (local)
+Cette ligne est ici afin de générer un conflit
