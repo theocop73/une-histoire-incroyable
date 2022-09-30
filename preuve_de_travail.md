@@ -1,2 +1,2 @@
-![Alt text] (/screen_git_log.png?raw=true "work_proof")
+![preuve de travail] (screen_git_log.png)
 
